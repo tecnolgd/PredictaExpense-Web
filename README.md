@@ -39,12 +39,8 @@ The web interface incorporates essentials of HTML5 and CSS with modular file app
 ## How to Run?
 
 * Open the live-link given below to access the website :
-      [*https://tecnolgd.github.io/PredictaExpense-Web*](https://github.com/tecnolgd/PredictaExpense-Web).
+      [*https://tecnolgd.github.io/PredictaExpense-Web*](https://tecnolgd.github.io/PredictaExpense-Web).
 
 
-## Value this repo?   
-* If you felt this repo to be useful or added knowledge to your dev workflow/skill-building, consider dropping a ⭐️ or hitting *fork*.
-* Open for feedbacks or knowlegde exchange.
-
-Author  
-  ***tecnolgd***
+---
+Developed by **tecnolgd**· Archived learning artifact.
